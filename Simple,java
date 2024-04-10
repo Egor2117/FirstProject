@@ -2,10 +2,8 @@ class Simple {
     public static void main(String args[]) {
         String surname = "Иванов";
         String subject = "Математика";
-        int time = 9;
 
         System.out.println("Фамилия: " + surname);
         System.out.println("Предмет: " + subject);
-        System.out.println("Время: " + time + ":00");
     }
 }
